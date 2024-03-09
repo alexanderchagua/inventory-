@@ -3,7 +3,7 @@
 This is an inventory program written in the Java programming language using IntelliJ IDEA."
 
 
-[Software Inventory Video](https://www.youtube.com/watch?v=4NFdOiANvXA)
+[Software Inventory Video](https://www.youtube.com/watch?v=iggSQ8mXS0o)
 
 # Development Environment
 
